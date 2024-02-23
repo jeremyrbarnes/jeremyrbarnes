@@ -19,7 +19,11 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,bootstrap,cs,css,docker,dotnet,git,github,html,js,jquery,mysql,postgres,postman,powershell,py,react,redis,regex,ts,vim,visualstudio,vscode" />
+  </a>
+</p>
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=jeremyrbarnes&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
