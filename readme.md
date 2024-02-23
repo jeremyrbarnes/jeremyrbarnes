@@ -1,5 +1,5 @@
 <p align="center">
-  <h2>bringing strategy, implementation, quality, and delivery together since the <img src="img/reel.png" height="50px;" style="margin-top: 10px;"></h2>
+  <h2>bringing strategy, implementation, quality, and delivery together since the </h2><img src="img/reel.png" height="50px;">
 </p>
 
 <p align="center">
