@@ -1,5 +1,5 @@
 <p align="center">
-  bringing strategy, implementation, quality, and delivery together since the 90s
+  <h2>bringing strategy, implementation, quality, and delivery together since the 90s</h2>
 </p>
 
 <p align="center">
