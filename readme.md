@@ -15,6 +15,7 @@
 🚀 Ready to elevate your tech journey to new heights? I'm not just a leader; I'm your seasoned guide who ensures that every step forward is a step toward excellence. Join hands with me, Jeremy, and let's craft a future where technology and leadership dance in perfect harmony! 🌐🚀
 </div>
 <br/><br/>
+<br/><br/>
 <div align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=azure,bootstrap,cs,css,docker,dotnet,git,github,html,js,jquery,mysql,postgres,postman,powershell,py,react,redis,regex,ts,vim,vscode&perline=8" />
