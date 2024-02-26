@@ -4,9 +4,10 @@
 <div align="left">
 👨‍💻 About Me
 Greetings fellow technophiles! I'm Jeremy (or jb), a fellow wanderer through the ever-expanding universe of software architecture, design, development and delivery. I started out about 25 years ago now, and I continue to learn, adapt, and grow myself as part of teams and companies trying to do great things. 
-<br/>
+<br/><br/>
+
 🚀 Expertise Highlights
-Software Architect Extraordinaire: Crafting solutions that seamlessly merge strategy and flawless implementation, ensuring every line of code aligns with the grand vision. navigating the realms of .NET, Python, React, DevOps, and enterprise data systems, I am not just a Software Architect – I'm the maestro orchestrating the symphony of cutting-edge technologies.
+Big Box Software Architecture: Crafting solutions that seamlessly merge strategy and flawless implementation, ensuring every line of code aligns with the grand vision. navigating the realms of .NET, Python, React, DevOps, and enterprise data systems, I am not just a Software Architect – I'm the maestro orchestrating the symphony of cutting-edge technologies.
 
 I'm a Polyglot! Fluent in the languages of .NET, Python, and React, I wield the power to transform ideas into scalable and efficient realities.
 
