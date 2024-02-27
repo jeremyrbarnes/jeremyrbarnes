@@ -4,10 +4,14 @@
 <div align="left">
 👨‍💻 About Me
 
-Greetings technophiles! I'm Jeremy (or jb), a fellow learner and geek, and I've been working in the solution development space for over 25 years! I have worked in many industries including health, idea and innovation management, Federal government (HHS, DOD, DOJ, etc.), e-Commerce, and others. I tend to play roles that leverage my ability to bring together strategy and implementation, business and technology, as I seem to be able to speak the languages of both sets of stakeholders, and tailor communication appropriately.
+Greetings! I'm Jeremy (or jb), a fellow learner and a geek at heart, and I've been working in software solution development for over 25 years! I have worked in many industries including health, idea and innovation management, Federal government (HHS, DOD, DOJ, etc.), e-Commerce, and others. I tend to play roles that leverage my ability to bring together strategy and implementation, business and technology, as I seem to be able to speak the languages of both sets of stakeholders, and tailor communication appropriately.
 
 
-I'm most passionate about  the ever-expanding universe of software architecture, design, development and delivery. I started out about 25 years ago now, and I continue to learn, adapt, and grow myself as part of teams and companies trying to do great things. 
+I'm passionate about how people, process, and technology come together and bring solutions to life. I'm really interested in how teams and individuals deliver amazing solutions, how they continuously develop themselves, and how organizational cultures adapt to remain empathetic to the challenges and realities of their teams as business priorities and strategies evolve over time. I'm a believer in psychological safety, and embrace the idea that creating an environment where pepole can be open and be themsevlves will provide the best outcomes all around.
+
+
+I'm also fascinated by the ever changing technical landscape we work in, and how we make the best decisions we can to apply technology to problems in the most appropriate, scalable, and 
+
 
 🚀 Expertise Highlights
 Big Box Software Architecture: Crafting solutions that seamlessly merge strategy and flawless implementation, ensuring every line of code aligns with the grand vision. navigating the realms of .NET, Python, React, DevOps, and enterprise data systems, I am not just a Software Architect – I'm the maestro orchestrating the symphony of cutting-edge technologies.
