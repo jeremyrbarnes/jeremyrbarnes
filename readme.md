@@ -14,13 +14,14 @@ I'm also fascinated by the ever changing technical landscape we work in, and how
 
 
 🚀 Expertise Highlights
-Big Box Software Architecture: Crafting solutions that seamlessly merge strategy and flawless implementation, ensuring every line of code aligns with the grand vision. navigating the realms of .NET, Python, React, DevOps, and enterprise data systems, I am not just a Software Architect – I'm the maestro orchestrating the symphony of cutting-edge technologies.
+Collaborator and Relationship Builder | 
 
-With a robust foundation in technology, I'm not just a leader; I'm the bridge between visionary strategy and flawless implementation. Picture this: every project isn't just delivered but crafted with precision and foresight, thanks to my knack for surfacing 'gotchas' before they even think about occurring.
 
-I'm a Polyglot! Fluent in the languages of .NET, Python, and React, I wield the power to transform ideas into scalable and efficient realities.
+Strategic Architecture | Crafting solutions that seamlessly merge strategy and implementation, with a focus on usability, quality, and scalability. Maintaining vision throughout development and delivery. 
 
-DevOps Dynamo: From pipelines to automation, I thrive in the DevOps playground, ensuring seamless delivery from code to deployment.
+Polyglot Technologist | With a strong fluency in .NET I have also done professional work in Java, Python, React, and many others. With my background in consulting and services I've made a career of being able to jump into a new business and technology and bring best practices, experience, and problem solving to rapidly adapt and deliver value.
+
+DevOps and Development: I believe these go together and are based in a collaborative and open culture. From pipelines to automation, I thrive in the DevOps playground, ensuring seamless delivery from code to deployment.
 
 Data Whisperer: Mastering the intricacies of enterprise data systems, turning data challenges into strategic assets.
 
