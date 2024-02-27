@@ -14,7 +14,8 @@ I'm also fascinated by the ever changing technical landscape we work in, and how
 
 
 🚀 Expertise Highlights
-Collaborator and Relationship Builder | 
+
+Collaborator and Relationship Builder | I strongly believe in partnerships, whether within my own team and organization, customers, vendors, or other partners. I work openly, I like to know people and their interests as well as their strengths and what makes them tick. I think this helps organize teams to be their most effective, and to empower people in their roles. 
 
 
 Strategic Architecture | Crafting solutions that seamlessly merge strategy and implementation, with a focus on usability, quality, and scalability. Maintaining vision throughout development and delivery. 
