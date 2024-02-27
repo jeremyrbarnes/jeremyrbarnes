@@ -10,7 +10,7 @@ Greetings! I'm Jeremy (or jb), a fellow learner and a geek at heart, and I've be
 I'm passionate about how people, process, and technology come together and bring solutions to life. I'm really interested in how teams and individuals deliver amazing solutions, how they continuously develop themselves, and how organizational cultures adapt to remain empathetic to the challenges and realities of their teams as business priorities and strategies evolve over time. I'm a believer in psychological safety, and embrace the idea that creating an environment where pepole can be open and be themsevlves will provide the best outcomes all around.
 
 
-I'm also fascinated by the ever changing technical landscape we work in, and how we make the best decisions we can to apply technology to problems in the most appropriate, scalable, and 
+I'm also fascinated by the ever changing technical landscape we work in, and how we make the best decisions we can to apply technology to problems in the most appropriate, scalable, and adaptable ways. While my day to day activities are often not hands-on coding, I still enjoy coding small projects whether in my professional roles or for personal projects, just to stay as current as I can and keep learning.
 
 
 🚀 Expertise Highlights
