@@ -24,6 +24,7 @@ Polyglot Technologist | With a strong fluency in .NET I have also done professio
 
 DevOps and Development: I believe these go together and are based in a collaborative and open culture. From pipelines to automation, I thrive in the DevOps playground, ensuring seamless delivery from code to deployment.
 
+<!-- 
 Data Whisperer: Mastering the intricacies of enterprise data systems, turning data challenges into strategic assets.
 
 📚 Passion for Learning
@@ -43,6 +44,7 @@ Collaboration isn't just a buzzword; it's the heartbeat of success. I champion t
 
 🌐 Let's Code the Future Together
 Join me in this code odyssey, where strategy meets implementation, learning is a perpetual adventure, and collaboration is the key to unlocking unprecedented success. Together, let's shape the future of software development! 🚀🌟
+-->
 </div>
 <br/><br/>
 <br/><br/>
