@@ -3,7 +3,9 @@
 </div>
 <div align="left">
 👨‍💻 About Me
+
 Greetings technophiles! I'm Jeremy (or jb), a fellow learner and geek, and I've been working in the solution development space for over 25 years! I have worked in many industries including health, idea and innovation management, Federal government (HHS, DOD, DOJ, etc.), e-Commerce, and others. I tend to play roles that leverage my ability to bring together strategy and implementation, business and technology, as I seem to be able to speak the languages of both sets of stakeholders, and tailor communication appropriately.
+
 
 I'm most passionate about  the ever-expanding universe of software architecture, design, development and delivery. I started out about 25 years ago now, and I continue to learn, adapt, and grow myself as part of teams and companies trying to do great things. 
 
