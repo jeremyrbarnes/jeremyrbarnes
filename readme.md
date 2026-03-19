@@ -6,6 +6,17 @@ I'm Jeremy, an Engineering Leader expert at connecting strategic vision to tacti
 * 🌍  I'm based in northern virginia
 * 🧠  I'm learning K8s, ArgoCD, Crossplane and other parts of the CNCF landscape. I'm also working on an AWS certification, keeping up my Azure certifcation, and getting into agentic AI.
 
+## 🛠️ Currently Building
+&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle.svg?color=%2386efac" width="14"> **The Village App:** A mobile-first social coordination platform for parents, built with React and Tailwind CSS.
+&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle.svg?color=%2386efac" width="14"> **Personal Portfolio:** Updating [jeremybarnes.me](https://jeremybarnes.me) with a fresh, responsive architecture.
+&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle-outline.svg?color=%2386efac" width="14"> **Game Dev Experiment:** Exploring digestive system mechanics and asset generation in a new prototype.
+
+## 🚀 Professional Focus
+
+&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle.svg?color=%2386efac" width="14"> **Architecture:** Microservices, .NET Core, and Cloud Infrastructure (Azure/AWS).
+&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle.svg?color=%2386efac" width="14"> **Leadership:** Technical Lead & Engineering Management with 10+ years of experience.
+&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle-outline.svg?color=%2386efac" width="14"> **Learning:** Advanced ARM64 development on macOS and high-performance Python.
+
 ### Skills
 <p align="left">
   <strong>Strategy & Executive Leadership</strong><br/>
