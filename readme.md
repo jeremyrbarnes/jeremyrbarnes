@@ -7,49 +7,70 @@ I'm Jeremy, an Engineering Leader expert at connecting strategic vision to tacti
 * 🧠  I'm learning K8s, ArgoCD, Crossplane and other parts of the CNCF landscape. I'm also working on an AWS certification, keeping up my Azure certifcation, and getting into agentic AI.
 
 ### Skills
-<h3 align="left">Strategy & Engineering Leadership</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/IT%20Strategy-00599C?style=for-the-badge&logo=strategy&logoColor=white" alt="IT Strategy" />
-  <img src="https://img.shields.io/badge/Stakeholder%20Management-00599C?style=for-the-badge" alt="Stakeholder Management" />
-  <img src="https://img.shields.io/badge/Digital%20Transformation-00599C?style=for-the-badge" alt="Digital Transformation" />
-  <img src="https://img.shields.io/badge/Team%20Management-00599C?style=for-the-badge" alt="Team Management" />
-  <img src="https://img.shields.io/badge/IT%20Offshoring-00599C?style=for-the-badge" alt="IT Offshoring" />
-  <img src="https://img.shields.io/badge/Budgeting%20%26%20PL-00599C?style=for-the-badge" alt="Budgeting" />
-  <img src="https://img.shields.io/badge/Vendor%20Management-00599C?style=for-the-badge" alt="Vendor Management" />
-  <img src="https://img.shields.io/badge/Change%20Management-00599C?style=for-the-badge" alt="Change Management" />
-</p>
+  <strong>Strategy & Executive Leadership</strong><br/>
+  <img src="https://img.shields.io/badge/Strategic%20Management-00599C?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/IT%20Strategy-00599C?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/Digital%20Transformation-00599C?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/IT%20Transformation-00599C?style=flat-square" /> ●●●●● <br/>
+  <img src="https://img.shields.io/badge/Stakeholder%20Management-00599C?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/Team%20Management-00599C?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/Leadership-00599C?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/Mentoring-00599C?style=flat-square" /> ●●●●● <br/>
+  <img src="https://img.shields.io/badge/Budgeting-00599C?style=flat-square" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/Negotiation-00599C?style=flat-square" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/Conflict%20Management-00599C?style=flat-square" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/Change%20Management-00599C?style=flat-square" /> ●●●●○ <br/>
 
-<h3 align="left">Architecture & Cloud Infrastructure</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Microservices-512BD4?style=for-the-badge" alt="Microservices" />
-  <img src="https://img.shields.io/badge/DDD-Domain--Driven%20Design-blue?style=for-the-badge" alt="Domain Driven Design" />
-  <img src="https://img.shields.io/badge/Cloud%20Migration-0072C6?style=for-the-badge&logo=microsoft-azure" alt="Cloud Migration" />
-  <img src="https://img.shields.io/badge/Multi--Cloud-grey?style=for-the-badge" alt="Multi-Cloud" />
-  <img src="https://img.shields.io/badge/SaaS-orange?style=for-the-badge" alt="SaaS" />
-  <img src="https://img.shields.io/badge/AI%20Strategy-8E44AD?style=for-the-badge" alt="AI Strategy" />
-  <img src="https://img.shields.io/badge/Serverless%20Lambda-FF9900?style=for-the-badge&logo=amazon-lambda&logoColor=white" alt="Lambda" />
-  <img src="https://img.shields.io/badge/IaC%20Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-</p>
+  <br/><strong>Program & Operations Management</strong><br/>
+  <img src="https://img.shields.io/badge/Project%20Portfolio%20Management-24292e?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/IT%20Portfolio%20Management-24292e?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/Program%20Management-24292e?style=flat-square" /> ●●●●● <br/>
+  <img src="https://img.shields.io/badge/Project%20Management-24292e?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/Product%20Management-24292e?style=flat-square" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/IT%20Offshoring-24292e?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/Vendor%20Management-24292e?style=flat-square" /> ●●●●○ <br/>
+  <img src="https://img.shields.io/badge/Risk%20Management-C0392B?style=flat-square" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/Risk%20Assessment-C0392B?style=flat-square" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/Compliance-27AE60?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/IT%20Governance-27AE60?style=flat-square" /> ●●●●● <br/>
 
-<h3 align="left">Development & Data Engineering</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/CosmosDB-008AD7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="CosmosDB" />
-  <img src="https://img.shields.io/badge/TDD%20%2F%20Unit%20Testing-green?style=for-the-badge" alt="TDD" />
-</p>
+  <br/><strong>Architecture & Infrastructure</strong><br/>
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-0072C6?style=flat-square&logo=microsoft-azure" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/Multi--Cloud-999999?style=flat-square" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/Cloud%20Migration-0072C6?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/SaaS-E67E22?style=flat-square" /> ●●●●● <br/>
+  <img src="https://img.shields.io/badge/Microservices-512BD4?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/Systems%20Integration-512BD4?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-blue?style=flat-square" /> ●●●●● <br/>
+  <img src="https://img.shields.io/badge/AI%20Strategy-8E44AD?style=flat-square" /> ●●●○○ &nbsp;
+  <img src="https://img.shields.io/badge/RestAPI%20%2F%20OpenAPI-00599C?style=flat-square&logo=swagger" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/OAuth%202.0%20%2F%20OpenID-FF6600?style=flat-square" /> ●●●●○ <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/Terraform%20(IaC)-7B42BC?style=flat-square&logo=terraform" /> ●●●●○ <br/>
 
-<h3 align="left">Process, Governance & Compliance</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Agile%20%2F%20SCRUM-FF6600?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile Scrum" />
-  <img src="https://img.shields.io/badge/SAFe-Blue?style=for-the-badge" alt="SAFe" />
-  <img src="https://img.shields.io/badge/IT%20Governance-darkblue?style=for-the-badge" alt="IT Governance" />
-  <img src="https://img.shields.io/badge/Risk%20Management-red?style=for-the-badge" alt="Risk Management" />
-  <img src="https://img.shields.io/badge/Compliance-green?style=for-the-badge" alt="Compliance" />
+  <br/><strong>Software Engineering & Data</strong><br/>
+  <img src="https://img.shields.io/badge/.NET%20Core%20%2F%20C%23-512BD4?style=flat-square&logo=dotnet" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript%20%2F%20JS-3178C6?style=flat-square&logo=typescript" /> ●●●●○ <br/>
+  <img src="https://img.shields.io/badge/React%20%2F%20Angular-20232B?style=flat-square&logo=react" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/ASP.NET%20%2F%20Razor%20%2F%20Blazor-512BD4?style=flat-square" /> ●●●●● <br/>
+  <img src="https://img.shields.io/badge/SQL%20Server%20%2F%20T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/NoSQL%20%2F%20CosmosDB-008AD7?style=flat-square" /> ●●●●○ <br/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-orange?style=flat-square" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/Data%20Engineering-orange?style=flat-square" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square" /> ●●●●● <br/>
+
+  <br/><strong>Methodology & Quality Assurance</strong><br/>
+  <img src="https://img.shields.io/badge/Agile%20%2F%20SCRUM%20%2F%20SAFe-FF6600?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/Kanban-FF6600?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/DevOps%20%2F%20GitOps-24292E?style=flat-square" /> ●●●●● <br/>
+  <img src="https://img.shields.io/badge/TDD%20%2F%20Unit%20Testing-44CC11?style=flat-square" /> ●●●●● &nbsp;
+  <img src="https://img.shields.io/badge/Performance%20Management-44CC11?style=flat-square" /> ●●●●○ &nbsp;
+  <img src="https://img.shields.io/badge/Quality%20Control-44CC11?style=flat-square" /> ●●●●● <br/>
 </p>
 
 
