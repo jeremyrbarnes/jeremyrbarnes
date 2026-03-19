@@ -13,7 +13,7 @@ I'm Jeremy, an Engineering Leader expert at connecting strategic vision to tacti
 
 ## 🚀 Professional Focus
 
-&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle.svg?color=%2386efac" width="14"> **Architecture:** Microservices, .NET Core, and Cloud Infrastructure (Azure/AWS).
+&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle.svg?color=%1dbc60" width="14"> **Architecture:** Microservices, .NET Core, and Cloud Infrastructure (Azure/AWS).
 &nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle.svg?color=%2386efac" width="14"> **Leadership:** Technical Lead & Engineering Management with 10+ years of experience.
 &nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle-outline.svg?color=%2386efac" width="14"> **Learning:** Advanced ARM64 development on macOS and high-performance Python.
 
