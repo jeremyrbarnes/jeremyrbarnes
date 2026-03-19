@@ -9,7 +9,13 @@ I'm Jeremy, an Engineering Leader expert at connecting strategic vision to tacti
 ### Skills
 <p align="left">
   <strong>Strategy & Executive Leadership</strong><br/>
-  <img src="https://img.shields.io/badge/Strategic%20Management-00599C?style=flat-square" /> <img src="https://img.shields.io/badge/-%20-white?style=flat&logo=target&logoColor=bbf7d0" height="20"> &nbsp;
+  <img src="https://img.shields.io/badge/Strategic%20Management-00599C?style=flat-square" /> 
+  <img src="https://img.icons8.com/ios-filled/50/86efac/filled-circle.png" width="12"> 
+  <img src="https://img.icons8.com/ios-filled/50/86efac/filled-circle.png" width="12"> 
+  <img src="https://img.icons8.com/ios-filled/50/86efac/filled-circle.png" width="12"> 
+  <img src="https://img.icons8.com/ios/50/86efac/circle.png" width="12">  
+  <img src="https://img.icons8.com/ios/50/86efac/circle.png" width="12">
+  &nbsp;
   <img src="https://img.shields.io/badge/IT%20Strategy-00599C?style=flat-square" /> ●●●●● &nbsp;
   <img src="https://img.shields.io/badge/Digital%20Transformation-00599C?style=flat-square" /> ●●●●● &nbsp;
   <img src="https://img.shields.io/badge/IT%20Transformation-00599C?style=flat-square" /> ●●●●● <br/>
