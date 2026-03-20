@@ -9,9 +9,15 @@ I'm Jeremy, an Engineering Leader expert at connecting strategic vision to tacti
 ## 🛠️ Currently Building
 
 <ul>
-  <li><img src="https://api.iconify.design/material-symbols:circle.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **The Villager App:** A mobile-first app designed to support and empower positve youth development. Integrating AI for development, testing, and capabiltiies within the app itself.</li>
+  <li><img src="https://api.iconify.design/material-symbols:circle.svg?color=%231DBC60" width="16" style="vertical-align:middle">The Villager App
+    <ul>
+      <li>
+       A mobile-first app designed to support and empower positve youth development. Integrating AI for development, testing, and capabiltiies within the app itself.</li>     
+      </li>
+    </ul>
+  </li>
   <li>
-    <img src="https://api.iconify.design/material-symbols:circle.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Continous Learning and Improvement:**
+    <img src="https://api.iconify.design/material-symbols:circle.svg?color=%231DBC60" width="16" style="vertical-align:middle"> Continous Learning and Improvement
     <ul>
       <li>
        AI Professional Certificate through IBM.   
