@@ -7,10 +7,9 @@ I'm Jeremy, an Engineering leader and developer with expertise in connecting str
 * 🧠  I'm learning K8s, ArgoCD, Crossplane and other parts of the CNCF landscape. I'm also working on an AWS certification, keeping up my Azure certifcation, and getting into agentic AI.
 
 ## 🛠️ Current Projects
-<img width="10" height="10" alt="7375680" src="https://github.com/user-attachments/assets/ff4fe8b5-b894-4769-b311-64143be0a898" />
 
 <ul>
-  <li> The Villager App
+  <li> <img width="25" height="25" alt="7375680" src="https://github.com/user-attachments/assets/ff4fe8b5-b894-4769-b311-64143be0a898" /> The Villager App
     <ul>
       <li>
        A mobile-first app designed to support and empower positve youth development. Integrating AI for development, testing, and capabiltiies within the app itself.</li>     
