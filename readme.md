@@ -1,12 +1,12 @@
 Connecting the Why, the What, and the How since the <a href="https://www.freepik.com/icon/90s_8787830"><img src="img/90s_8787830.png" style="height: 40px; margin: auto;"></a>
 -------------------------------------------------------
 
-I'm Jeremy, an Engineering Leader expert at connecting strategic vision to tactical execution. I have a proven record of building and empowering global, cross-functional teams while mentoring the next generation of technical leaders. I am seeking a high-impact role within a purpose-driven organization to transform complex product requirements into scalable, human-centric technical solutions.
+I'm Jeremy, an Engineering leader and developer with expertise in connecting strategic vision to tactical execution. I have a proven record of building and empowering global, cross-functional teams while mentoring the next generation of technical leaders. I am seeking a high-impact role within a purpose-driven organization to partner with customers and transform complex strategic product goals into scalable, secure, and reliable solutions.
 
 * 🌍  I'm based in northern virginia
 * 🧠  I'm learning K8s, ArgoCD, Crossplane and other parts of the CNCF landscape. I'm also working on an AWS certification, keeping up my Azure certifcation, and getting into agentic AI.
 
-## 🛠️ Currently Building
+## 🛠️ Current Projects
 
 <ul>
   <li> The Villager App
