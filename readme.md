@@ -3,11 +3,7 @@ Connecting the Why, the What, and the How since the <a href="https://www.freepik
 
 I'm Jeremy, an Engineering leader and developer with expertise in connecting strategic vision to tactical execution. I have a proven record of building and empowering global, cross-functional teams while mentoring the next generation of technical leaders. I am seeking a high-impact role within a purpose-driven organization to partner with customers and transform complex strategic product goals into scalable, secure, and reliable solutions.
 
-* 🌍  I'm based in northern virginia
-* 🧠  I'm learning K8s, ArgoCD, Crossplane and other parts of the CNCF landscape. I'm also working on an AWS certification, keeping up my Azure certifcation, and getting into agentic AI.
-
 ## 🛠️ Current Projects
-
 <ul>
   <li> <img width="25" height="25" alt="7375680" src="https://github.com/user-attachments/assets/ff4fe8b5-b894-4769-b311-64143be0a898" /> The Villager App
     <ul>
@@ -16,7 +12,7 @@ I'm Jeremy, an Engineering leader and developer with expertise in connecting str
       </li>
     </ul>
   </li>
-  <li> Continous Learning and Improvement
+  <li> 🧠 Continous Learning and Improvement
     <ul>
       <li> AI Professional Certificate through IBM.</li>
     </ul>
@@ -28,9 +24,8 @@ I'm Jeremy, an Engineering leader and developer with expertise in connecting str
   </li>
 
 ## 🚀 Professional Focus
-
-&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Architecture:** Modern software design focusing on .NET 10, Azure, and Containerization (Docker/K8s).
-&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Leadership:** Engineering Management with a focus on driving feature output and team scaling.
+- **Architecture:** Modern software design focusing on .NET 10, Azure, and Containerization (Docker/K8s).
+- **Leadership:** Engineering Management with a focus on driving feature output and team scaling.
 &nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle-outline.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Technical Mastery:** Refreshing AZ-305 expertise and modernizing cloud-native skillsets.
 
 ## 🌲 Interests & Beyond
