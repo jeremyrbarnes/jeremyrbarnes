@@ -8,9 +8,10 @@ I'm Jeremy, an Engineering Leader expert at connecting strategic vision to tacti
 
 ## 🛠️ Currently Building
 
-&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **The Village App:** A mobile-first social coordination platform for parents, built with React and Tailwind CSS.
-&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Personal Digital Presence:** Refreshing [jeremybarnes.me](https://jeremybarnes.me) and optimizing architectural showcases.
-&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle-outline.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Game Prototype:** Developing a unique, food-themed game utilizing custom SVG assets and React.
+- <img src="https://api.iconify.design/material-symbols:circle.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **The Villager App:** A mobile-first app designed to support and empower positve youth development. Integrating AI for development, testing, and capabiltiies within the app itself.
+- <img src="https://api.iconify.design/material-symbols:circle.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Continous Learning and Improvement:**
+-- AI Professional Certificate through IBM.
+- <img src="https://api.iconify.design/material-symbols:circle-outline.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Game Prototype:** Developing a unique, food-themed game utilizing custom SVG assets and React.
 
 ## 🚀 Professional Focus
 
