@@ -22,6 +22,7 @@ I'm Jeremy, an Engineering leader and developer with expertise in connecting str
       <li>Developing a unique, food-themed game utilizing custom SVG assets and React.</li>  
     </ul>
   </li>
+</ul>
 
 ## 🚀 Professional Focus
 - **Architecture:** Modern software design focusing on .NET 10, Azure, and Containerization (Docker/K8s).
