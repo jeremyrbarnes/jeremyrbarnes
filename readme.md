@@ -31,18 +31,13 @@ I'm Jeremy, an Engineering leader and developer with expertise in connecting str
   <img src="https://img.shields.io/badge/Conflict%20Management-00599C?style=flat-square" />
 
   <br/><strong>Program & Operations Management</strong><br/>
-  <img src="https://img.shields.io/badge/Project%20Portfolio%20Management-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Program%20Management-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Project%20Management-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Product%20Management-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vendor%20Management-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/Compliance-27AE60?style=flat-square" />
   <img src="https://img.shields.io/badge/IT%20Governance-27AE60?style=flat-square" />
 
   <br/><strong>Architecture & Infrastructure</strong><br/>
   <img src="https://img.shields.io/badge/Cloud%20Architecture-00599C?style=flat-square&logo=microsoft-azure" />
   <img src="https://img.shields.io/badge/Microservices-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/RestAPI%20%2F%20OpenAPI-00599C?style=flat-square&logo=swagger" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
