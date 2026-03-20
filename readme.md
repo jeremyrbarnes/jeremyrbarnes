@@ -13,8 +13,9 @@ I'm Jeremy, an Engineering leader and developer with expertise in connecting str
 - **Technical Mastery:** Refreshing AZ-305 expertise and modernizing cloud-native skillsets.
 
 ## 🌲 Interests & Beyond
-- **Outdoors:** Avid hiker and dog enthusiast based in Washington, D.C.
-- **Music:** Exploring new soundscapes and curation.
+- **Travel:** My wife and I are working on all seven continents, and in recent years have enjoyed more and more travel that incorporates some eco-toursim, including the Galapagos, Peru and Bolivia, and coming soon, Africa!
+- **Outdoors:** I love being outside, hiking, swimming, and traveling. 
+- **Music:** I play in a classic rock band and did a stint in music school where I helped start a punk/ska band that's still out there today! Guitar and Bass are my current focuses, and I really enjoy any style of music.
 - **Sports:** Keeping a close eye on sports analytics and NCAA bracketology.
 
 ### Skills
