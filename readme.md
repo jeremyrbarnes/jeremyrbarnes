@@ -21,7 +21,11 @@ I'm Jeremy, an Engineering Leader expert at connecting strategic vision to tacti
       <li> AI Professional Certificate through IBM.</li>
     </ul>
   </li>
-  <li> Game Prototype:** Developing a unique, food-themed game utilizing custom SVG assets and React.</li>
+  <li> Game Prototype
+    <ul>
+      <li>Developing a unique, food-themed game utilizing custom SVG assets and React.</li>  
+    </ul>
+  </li>
 
 ## 🚀 Professional Focus
 
