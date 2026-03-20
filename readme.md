@@ -32,8 +32,16 @@ I'm Jeremy, a guy who's worked in tech for a while now, and has found a passion 
   <img src="https://img.shields.io/badge/Conflict%20Management-00599C?style=flat-square" />
 
   <br/><strong>Program & Operations Management</strong><br/>
-  <img src="https://img.shields.io/badge/Compliance-27AE60?style=flat-square" />
-  <img src="https://img.shields.io/badge/IT%20Governance-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/SDLC%20Governance-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Risk%20Management-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Change%20Management-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Technical%20Breadth-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data--Driven%20Decision%20Making-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stakeholder%20Management-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Resource%20%26%20Capacity%20Planning-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Strategic%20Roadmapping-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Incident%20Response-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Financial%20Acumen-27AE60?style=flat-square" />
 
   <br/><strong>Architecture & Infrastructure</strong><br/>
   <img src="https://img.shields.io/badge/Cloud%20Architecture-00599C?style=flat-square&logo=microsoft-azure" />
