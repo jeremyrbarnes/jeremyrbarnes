@@ -14,10 +14,9 @@ I'm Jeremy, an Engineering leader and developer with expertise in connecting str
 &nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle-outline.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Technical Mastery:** Refreshing AZ-305 expertise and modernizing cloud-native skillsets.
 
 ## 🌲 Interests & Beyond
-
-&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Outdoors:** Avid hiker and dog enthusiast based in Washington, D.C.
-&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Music:** Exploring new soundscapes and curation.
-&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle-outline.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Analytics:** Keeping a close eye on sports analytics and NCAA bracketology.
+- <img src="https://api.iconify.design/material-symbols:circle.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Outdoors:** Avid hiker and dog enthusiast based in Washington, D.C.
+- <img src="https://api.iconify.design/material-symbols:circle.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Music:** Exploring new soundscapes and curation.
+- <img src="https://api.iconify.design/material-symbols:circle-outline.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Analytics:** Keeping a close eye on sports analytics and NCAA bracketology.
 
 ### Skills
 <p align="left">
