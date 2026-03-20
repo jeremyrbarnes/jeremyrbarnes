@@ -1,7 +1,7 @@
 Connecting the Why, the What, and the How since the <a href="https://www.freepik.com/icon/90s_8787830"><img src="img/90s_8787830.png" style="height: 40px; margin: auto;"></a>
 -------------------------------------------------------
 
-I'm Jeremy, an Engineering leader and developer with expertise in connecting strategic vision to tactical execution. I have a proven record of building and empowering global, cross-functional teams while mentoring the next generation of technical leaders. I am seeking a high-impact role within a purpose-driven organization to partner with customers and transform complex strategic product goals into scalable, secure, and reliable solutions.
+I'm Jeremy, a guy who's worked in tech for a while now, and has found a passion for really building and working with collaborative teams that bring the best of everyone to drive impactful, innovative solutions that help organizations take on their strategic goals.
 
 ## 🛠️ Current Projects
 - **The Villager App** A mobile-first app designed to support and empower positve youth development. Integrating AI for development, testing, and capabiltiies within the app itself.
@@ -16,7 +16,7 @@ I'm Jeremy, an Engineering leader and developer with expertise in connecting str
 - **Travel:** My wife and I are working on all seven continents, and in recent years have enjoyed more and more travel that incorporates some eco-toursim, including the Galapagos, Peru and Bolivia, and coming soon, Africa!
 - **Outdoors:** I love being outside, hiking, swimming, and traveling. 
 - **Music:** I play in a classic rock band and did a stint in music school where I helped start a punk/ska band that's still out there today! Guitar and Bass are my current focuses, and I really enjoy any style of music.
-- **Sports:** Keeping a close eye on sports analytics and NCAA bracketology.
+- **Sports:** My two favorites are baseball (Red Sox) and American football (Patriots). I'm a New Englander originally, so those alliances hold strong. I am making surprisingly good progress on getting to every baseball park, and really enjoy the travel that comes along with that.
 
 ### Skills
 <p align="left">
