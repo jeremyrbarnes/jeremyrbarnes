@@ -39,21 +39,21 @@ I'm Jeremy, an Engineering leader and developer with expertise in connecting str
   <img src="https://img.shields.io/badge/Microservices-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/Domain%20Driven%20Design-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/RestAPI%20%2F%20OpenAPI-00599C?style=flat-square&logo=swagger" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-00599C?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-00599C?style=flat-square&logo=kubernetes&logoColor=white" />
 
   <br/><strong>Software Engineering & Data</strong><br/>
-  <img src="https://img.shields.io/badge/.NET%20Core%20%2F%20C%23-00599C?style=flat-square&logo=dotnet" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/React%20%2F%20Angular-20232B?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Core%20%2F%20C%23-27AE60?style=flat-square&logo=dotnet" />
+  <img src="https://img.shields.io/badge/SQL%20Server-27AE60?style=flat-square&logo=microsoft-sql-server" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/React%20%2F%20Angular-27AE60?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Python-27AE60?style=flat-square&logo=python&logoColor=white" />
 
   <br/><strong>Methodology & Quality Assurance</strong><br/>
-  <img src="https://img.shields.io/badge/Agile%20%2F%20SCRUM-FF6600?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kanban-FF6600?style=flat-square" />
-  <img src="https://img.shields.io/badge/TDD%20%2F%20Unit%20Testing-44CC11?style=flat-square" />
-  <img src="https://img.shields.io/badge/Quality%20Control-44CC11?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agile%20%2F%20SCRUM-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kanban-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/TDD%20%2F%20Unit%20Testing-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Quality%20Control-00599C?style=flat-square" />
 </p>
 
 ### Socials
