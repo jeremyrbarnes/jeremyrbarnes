@@ -10,7 +10,7 @@ I'm Jeremy, an Engineering leader and developer with expertise in connecting str
 ## 🚀 Professional Focus
 - **Architecture:** Modern software design focusing on .NET 10, Azure, and Containerization (Docker/K8s).
 - **Leadership:** Engineering Management with a focus on driving feature output and team scaling.
-&nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:circle-outline.svg?color=%231DBC60" width="16" style="vertical-align:middle"> **Technical Mastery:** Refreshing AZ-305 expertise and modernizing cloud-native skillsets.
+- **Technical Mastery:** Refreshing AZ-305 expertise and modernizing cloud-native skillsets.
 
 ## 🌲 Interests & Beyond
 - **Outdoors:** Avid hiker and dog enthusiast based in Washington, D.C.
