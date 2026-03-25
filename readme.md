@@ -52,35 +52,6 @@ I'm Jeremy, a guy who's worked in tech for a while now, and has found a passion 
   <img src="https://img.shields.io/badge/Kubernetes-00599C?style=flat-square&logo=kubernetes&logoColor=white" />
 
   <br/><strong>Software Engineering & Data</strong><br/>
-  <img src="https://img.shields.io/badge/.NET%20Core%20%2F%20C%23-27AE60?style=flat-square&logo=dotnet" />
-  <img src="https://img.shields.io/badge/SQL%20Server-27AE60?style=flat-square&logo=microsoft-sql-server" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-27AE60?style=flat-square" />
-  <img src="https://img.shields.io/badge/React%20%2F%20Angular-27AE60?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Python-27AE60?style=flat-square&logo=python&logoColor=white" />
-
-  <br/><strong>Methodology & Quality Assurance</strong><br/>
-  <img src="https://img.shields.io/badge/Agile%20%2F%20SCRUM-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kanban-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/TDD%20%2F%20Unit%20Testing-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Quality%20Control-00599C?style=flat-square" />
-</p>
-
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white)
-
-
-
-
-![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)
-
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)
-
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -107,7 +78,36 @@ I'm Jeremy, a guy who's worked in tech for a while now, and has found a passion 
 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)  
+[  <img src="https://img.shields.io/badge/.NET%20Core%20%2F%20C%23-27AE60?style=flat-square&logo=dotnet" />
+  <img src="https://img.shields.io/badge/SQL%20Server-27AE60?style=flat-square&logo=microsoft-sql-server" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/React%20%2F%20Angular-27AE60?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Python-27AE60?style=flat-square&logo=python&logoColor=white" />
+](url)
+  <br/><strong>Methodology & Quality Assurance</strong><br/>
+  <img src="https://img.shields.io/badge/Agile%20%2F%20SCRUM-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kanban-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/TDD%20%2F%20Unit%20Testing-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Quality%20Control-00599C?style=flat-square" />
+</p>
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white)
+
+
+
+
+![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)
+
+![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)
+
+
+
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
