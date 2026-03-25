@@ -44,7 +44,8 @@ I'm Jeremy, a guy who's worked in tech for a while now, and has found a passion 
   <img src="https://img.shields.io/badge/Financial%20Acumen-27AE60?style=flat-square" />
 
   <br/><strong>Architecture & Infrastructure</strong><br/>
-  <img src="https://img.shields.io/badge/Cloud%20Architecture-00599C?style=flat-square&logo=microsoft-azure" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/Domain%20Driven%20Design-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/RestAPI%20%2F%20OpenAPI-00599C?style=flat-square&logo=swagger" />
