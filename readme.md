@@ -9,8 +9,8 @@ I'm Jeremy, a guy who's worked in tech for a while now, and has found a passion 
 
 ## 🚀 Professional Focus
 <p align="left">
-💻⚙️ <strong>Architecture:</strong> Modern software design focusing on .NET 10, Azure, and Containerization (Docker/K8s).<br />
-<br />📈 <strong>Leadership:</strong> Engineering Management with a focus on driving feature output and team scaling.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻⚙️ <strong>Architecture:</strong> Modern software design focusing on .NET 10, Azure, and Containerization (Docker/K8s).<br />
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈 <strong>Leadership:</strong> Engineering Management with a focus on driving feature output and team scaling.<br />
 </p>
 
 ## 🌲 Interests & Beyond
