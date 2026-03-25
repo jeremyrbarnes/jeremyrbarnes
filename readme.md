@@ -62,7 +62,6 @@ I'm Jeremy, a guy who's worked in tech for a while now, and has found a passion 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />   
   <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />  
-  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
   <br/><strong>Methodology & Quality Assurance</strong><br/>
   <img src="https://img.shields.io/badge/Agile%20%2F%20SCRUM-00599C?style=flat-square" />
