@@ -45,7 +45,7 @@ I'm Jeremy, a guy who's worked in tech for a while now, and has found a passion 
   <br/><strong>Architecture & Infrastructure</strong><br/>
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/terraform-%23FF9900.svg?style=for-the-badge&logo=terraform&logoColor=white" />
 
   <br/><strong>Software Engineering & Data</strong><br/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
