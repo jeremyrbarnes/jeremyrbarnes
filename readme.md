@@ -8,18 +8,14 @@ I'm Jeremy, a guy who's worked in tech for a while now, and has found a passion 
 - **Continous Learning and Improvement** Currently working on an AI Professional Certificate through IBM, as well as refreshing my PMP.
 
 ## 🚀 Professional Focus
-<p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻⚙️ <strong>Architecture:</strong> Modern software design focusing on .NET 10, Azure, and Containerization (Docker/K8s).<br />
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈 <strong>Leadership:</strong> Engineering Management with a focus on driving feature output and team scaling.<br />
-</p>
+- **Architecture:** Modern software design focusing on .NET 10, Azure, and Containerization (Docker/K8s).
+- **Leadership:** Engineering Management with a focus on driving feature output and team scaling.
 
 ## 🌲 Interests & Beyond
-<p align="left">
-✈️ <strong>Travel:</strong> My wife and I are working on all seven continents, and in recent years have enjoyed more and more travel that incorporates some eco-toursim, including the Galapagos, Peru and Bolivia, and coming soon, Africa!<br />
-<br />🌲 <strong>Outdoors:</strong> I love being outside, hiking, swimming, and traveling. <br />
-<br />🎸 <strong>Music:</strong> I play in a classic rock band and did a stint in music school where I helped start a punk/ska band that's still out there today! Guitar and Bass are my current focuses, and I really enjoy any style of music.<br />
-<br />⚾ <strong>Sports:</strong> My two favorites are baseball (Red Sox) and American football (Patriots). I'm a New Englander originally, so those alliances hold strong. I am making surprisingly good progress on getting to every baseball park, and really enjoy the travel that comes along with that.<br />
-</p>
+- **Travel:** My wife and I are working on all seven continents, and in recent years have enjoyed more and more travel that incorporates some eco-toursim, including the Galapagos, Peru and Bolivia, and coming soon, Africa!
+- **Outdoors:** I love being outside, hiking, swimming, and traveling. <br />
+- **Music:** I play in a classic rock band and did a stint in music school where I helped start a punk/ska band that's still out there today! Guitar and Bass are my current focuses, and I really enjoy any style of music.
+- **Sports:** My two favorites are baseball (Red Sox) and American football (Patriots). I'm a New Englander originally, so those alliances hold strong. I am making surprisingly good progress on getting to every baseball park, and really enjoy the travel that comes along with that.
 
 ### Skills
 <p align="left">
