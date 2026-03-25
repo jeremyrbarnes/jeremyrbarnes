@@ -46,18 +46,11 @@ I'm Jeremy, a guy who's worked in tech for a while now, and has found a passion 
   <br/><strong>Architecture & Infrastructure</strong><br/>
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-[  <img src="https://img.shields.io/badge/Microservices-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/RestAPI%20%2F%20OpenAPI-00599C?style=flat-square&logo=swagger" />
-  <img src="https://img.shields.io/badge/Docker-00599C?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-00599C?style=flat-square&logo=kubernetes&logoColor=white" />](url)
-
 
   <br/><strong>Software Engineering & Data</strong><br/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -77,24 +70,3 @@ I'm Jeremy, a guy who's worked in tech for a while now, and has found a passion 
   <img src="https://img.shields.io/badge/TDD%20%2F%20Unit%20Testing-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/Quality%20Control-00599C?style=flat-square" />
 </p>
-
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white)
-
-
-
-
-![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)
-
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)
-
-
-
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
