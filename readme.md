@@ -46,24 +46,30 @@ I'm Jeremy, a guy who's worked in tech for a while now, and has found a passion 
   <br/><strong>Architecture & Infrastructure</strong><br/>
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+[  <img src="https://img.shields.io/badge/Microservices-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/RestAPI%20%2F%20OpenAPI-00599C?style=flat-square&logo=swagger" />
+  <img src="https://img.shields.io/badge/Docker-00599C?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-00599C?style=flat-square&logo=kubernetes&logoColor=white" />](url)
+
 
   <br/><strong>Software Engineering & Data</strong><br/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />   
+  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />  
   <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" /> 
 
   <br/><strong>Methodology & Quality Assurance</strong><br/>
   <img src="https://img.shields.io/badge/Agile%20%2F%20SCRUM-00599C?style=flat-square" />
