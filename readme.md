@@ -52,7 +52,7 @@ I'm Jeremy, a guy who's worked in tech for a while now, and has found a passion 
   <img src="https://img.shields.io/badge/Kubernetes-00599C?style=flat-square&logo=kubernetes&logoColor=white" />
 
   <br/><strong>Software Engineering & Data</strong><br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
