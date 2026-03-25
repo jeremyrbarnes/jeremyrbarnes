@@ -17,7 +17,7 @@ I'm Jeremy, a guy who's worked in tech for a while now, and has found a passion 
 - **Music:** I play in a classic rock band and did a stint in music school where I helped start a punk/ska band that's still out there today! Guitar and Bass are my current focuses, and I really enjoy any style of music.
 - **Sports:** My two favorites are baseball (Red Sox) and American football (Patriots). I'm a New Englander originally, so those alliances hold strong. I am making surprisingly good progress on getting to every baseball park, and really enjoy the travel that comes along with that.
 
-### Skills
+## 🛠️ Skills
 <p align="left">
   <strong>Strategy & Executive Leadership</strong><br/>
   <img src="https://img.shields.io/badge/Strategic%20Management-00599C?style=flat-square" />
