@@ -1,7 +1,7 @@
-Connecting the Why, the What, and the How since the <a href="https://www.freepik.com/icon/90s_8787830"><img src="img/90s_8787830.png" style="height: 40px; margin: auto;"></a>
+Connecting the Why, the What, and the How
 -------------------------------------------------------
 
-I'm Jeremy, a digital transformation leader based in Arlington, Virginia. I've worked in technology since the late '90s, and I enjoy building collaborative teams that modernize products and architectures and help organizations reach their strategic goals.
+I'm Jeremy, a technology leader based in Arlington, Virginia. I help health organizations figure out where AI actually helps, then make it stick. I've spent my career modernizing systems people depend on, from Medicaid eligibility to emergency medical response, and I'm at my best as the bridge between strategy, clients and the business and the teams building and running the technology.
 
 <p>
   <a href="https://jeremybarnes.me"><img src="https://img.shields.io/badge/Website-jeremybarnes.me-1B3A5C?style=flat-square" /></a>
@@ -9,33 +9,46 @@ I'm Jeremy, a digital transformation leader based in Arlington, Virginia. I've w
 </p>
 
 ## Highlights
-- **25+ years** in software, architecture and technology leadership
-- **5x** growth of a global, cross-functional engineering team in one year
+- **$50M+** in annual revenue protected by moving a Medicaid eligibility platform to a HIPAA-compliant cloud
+- **100+** siloed apps consolidated into one system for an 11,000-person federal workforce
 - **$20M** Series A funding secured as CTO of a health technology company
-- **50%+** of company revenue from a DevSecOps platform I led engineering for
-- Converted an enterprise .NET monolith into an Azure microservices SaaS platform
+- **50%** fewer low-value backlog items after bringing AI into team planning
+- **5x** growth of a global, cross-functional engineering team in one year
 
 ## Current Projects
-- **The Villager App:** A mobile-first app to support positive youth development, using AI in development, testing and in the app itself.
+- **AI adoption at enterprise scale:** Leading AI adoption across a full pursuit-and-delivery process: reusable prompts and workflows, curated knowledge, AI best practices and AI-assisted scoring.
+- **Youth development app (advising):** Built hands-on with AI agents to support positive youth development, using AI in development, testing, deployment and in the app itself. Now advising the team.
 - **Continuous learning:** Working on the IBM AI Professional Certificate and renewing my PMP.
 
 ## Professional Focus
+- **Health technology:** Modernizing the systems health programs run on, including Medicaid eligibility, federal health and emergency-response platforms, with HIPAA-compliant cloud architecture.
+- **AI adoption:** Helping teams find where AI actually helps, with reusable prompts and workflows, curated knowledge and clear best practices.
+- **Delivery leadership:** Engineering management focused on delivery, scaling teams and bridging strategy with execution.
 - **Architecture:** Modern software design with .NET 10, Azure and containers (Docker/Kubernetes).
-- **Leadership:** Engineering management focused on delivery and scaling teams.
-- **Transformation:** Moving legacy systems to cloud-native, AI-enabled platforms with modern DevSecOps.
 
 ## Skills
 <p align="left">
-  <strong>Strategy &amp; Leadership</strong><br/>
-  <img src="https://img.shields.io/badge/Strategic%20Management-13294A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IT%20Strategy-13294A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Digital%20Transformation-13294A?style=for-the-badge" />
+  <strong>Health Technology</strong><br/>
+  <img src="https://img.shields.io/badge/Medicaid%20Systems-0F5E5A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HIPAA%20Compliance-0F5E5A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Federal%20Health-0F5E5A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Emergency%20Response-0F5E5A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Digital%20Health-0F5E5A?style=for-the-badge" />
+
+  <br/><strong>AI</strong><br/>
+  <img src="https://img.shields.io/badge/AI%20Adoption-13294A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20%26%20Workflow%20Design-13294A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-13294A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Governance-13294A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Knowledge%20Curation-13294A?style=for-the-badge" />
+
+  <br/><strong>Strategy &amp; Leadership</strong><br/>
+  <img src="https://img.shields.io/badge/Strategy%20to%20Delivery-13294A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Product%20Strategy-13294A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Stakeholder%20Management-13294A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Team%20Management-13294A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Budgeting-13294A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Negotiation-13294A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Conflict%20Management-13294A?style=for-the-badge" />
 
   <br/><strong>Program &amp; Operations</strong><br/>
   <img src="https://img.shields.io/badge/SDLC%20Governance-1B3A5C?style=for-the-badge" />
